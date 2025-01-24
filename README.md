@@ -8,3 +8,9 @@
 * [Variables](03_Variables.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/03_Variables.ipynb)
 * [Expressions](04_Expressions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/04_Expressions.ipynb)
 * [Lab: A Year with Python](05_Lab_AYearWithPython.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/05_Lab_AYearWithPython.ipynb)
+
+## Day 3: Working with different types of data
+* [Comments](06_Comments.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/06_Comments.ipynb)
+* [Types](07_Types.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/07_Types.ipynb)
+* [Input and Type Conversion](08_InputTypeConversion.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/08_InputTypeConversion.ipynb)
+* [Lab: Pay Calculator](09_Lab_PayCalculator.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/09_Lab_PayCalculator.ipynb)
