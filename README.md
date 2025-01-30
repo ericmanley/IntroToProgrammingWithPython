@@ -14,3 +14,9 @@
 * [Types](07_Types.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/07_Types.ipynb)
 * [Input and Type Conversion](08_InputTypeConversion.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/08_InputTypeConversion.ipynb)
 * [Lab: Pay Calculator](09_Lab_PayCalculator.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/09_Lab_PayCalculator.ipynb)
+
+## Day 4: Calling Functions and Making Decisions
+* [Calling Functions](10_CallingFunctionsImportingModules.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/10_CallingFunctionsImportingModules.ipynb)
+* [Division Operators](12_DivisionOperators.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/12_DivisionOperators.ipynb)
+* [Conditionals](13_Conditionals.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/13_Conditionals.ipynb)
+* [Lab: Division, Modulus, and Conditionals](14_Lab_DivisionModulusConditional.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/14_Lab_DivisionModulusConditional.ipynb)
