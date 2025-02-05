@@ -20,3 +20,7 @@
 * [Division Operators](12_DivisionOperators.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/12_DivisionOperators.ipynb)
 * [Conditionals](13_Conditionals.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/13_Conditionals.ipynb)
 * [Lab: Division, Modulus, and Conditionals](14_Lab_DivisionModulusConditional.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/14_Lab_DivisionModulusConditional.ipynb)
+
+## Day 5: Making More Complex Decisions
+* [String Comparison and Chained Conditionals](15_StringComparisonChainedConditionalsLogicalOperators.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/15_StringComparisonChainedConditionalsLogicalOperators.ipynb)
+* [Lab: Chained Conditional and Logical Operator Practices](16_Lab_ChainedConditionalLogicalOperatorPractice.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/16_Lab_ChainedConditionalLogicalOperatorPractice.ipynb)
