@@ -26,6 +26,10 @@
 * [Lab: Chained Conditional and Logical Operator Practices](16_Lab_ChainedConditionalLogicalOperatorPractice.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/16_Lab_ChainedConditionalLogicalOperatorPractice.ipynb)
 
 
-## Day 6: Lists
+## Day 6: Working with Collections of Data
 * [Lists](17_Lists.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/17_Lists.ipynb)
 * [Lab: List Practice](18_Lab_ListPractice.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/18_Lab_ListPractice.ipynb)
+
+## Day 7: Repeating Code Multiple Times
+* [While Loops](19_WhileLoops.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/19_WhileLoops.ipynb)
+* [Lab: Loops and Lists](20_Lab_LoopsLists.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/20_Lab_LoopsLists.ipynb)
