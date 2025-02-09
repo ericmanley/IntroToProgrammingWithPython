@@ -24,3 +24,8 @@
 ## Day 5: Making More Complex Decisions
 * [String Comparison and Chained Conditionals](15_StringComparisonChainedConditionalsLogicalOperators.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/15_StringComparisonChainedConditionalsLogicalOperators.ipynb)
 * [Lab: Chained Conditional and Logical Operator Practices](16_Lab_ChainedConditionalLogicalOperatorPractice.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/16_Lab_ChainedConditionalLogicalOperatorPractice.ipynb)
+
+
+## Day 6: Lists
+* [Lists](17_Lists.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/17_Lists.ipynb)
+* [Lab: List Practice](18_Lab_ListPractice.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/18_Lab_ListPractice.ipynb)
