@@ -33,3 +33,6 @@
 ## Day 7: Repeating Code Multiple Times
 * [While Loops](19_WhileLoops.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/19_WhileLoops.ipynb)
 * [Lab: Loops and Lists](20_Lab_LoopsLists.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/20_Lab_LoopsLists.ipynb)
+
+## Day 8: Working with Data Stored in Files
+* [Reading Data from Files](21_ReadingDataFromFiles.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/21_ReadingDataFromFiles.ipynb)
