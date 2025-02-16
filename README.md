@@ -36,3 +36,4 @@
 
 ## Day 8: Working with Data Stored in Files
 * [Reading Data from Files](21_ReadingDataFromFiles.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/21_ReadingDataFromFiles.ipynb)
+* [Lab: Files](22_Lab_Files.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/22_Lab_Files.ipynb)
