@@ -40,4 +40,4 @@
 
 ## Day 9: Two-Dimensional Data and CSV Files
 * [The CSV File Format and Two Dimensional Lists](23_CSVFormat2DLists.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/23_CSVFormat2DLists.ipynb)
-* Lab coming soon
+* [Lab: CSV Files and Text Analysis](24_Lab_CSVTextAnalysis.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/24_Lab_CSVTextAnalysis.ipynb)
