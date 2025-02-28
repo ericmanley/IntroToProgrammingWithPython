@@ -50,3 +50,8 @@
 ## Day 11: Dividing up Large Programs into Functions
 * [Documenting Functions](28_DocumentingFunctions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/28_DocumentingFunctions.ipynb)
 * [Lab: Sentiment Analysis Program](29_Lab_SentimentAnalysis.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/29_Lab_SentimentAnalysis.ipynb)
+
+## Day 12: A Deeper Look at Writing Functions
+* [Scope](30_Scope.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/30_Scope.ipynb)
+* [Working with Lists in Functions](31_ListsInFunctions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/31_ListsInFunctions.ipynb)
+* [Lab: Improving the Sentiment Analysis Program](32_Lab_ImprovingSentimentAnalysis.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/32_Lab_ImprovingSentimentAnalysis.ipynb)
