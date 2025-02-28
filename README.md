@@ -42,7 +42,11 @@
 * [The CSV File Format and Two Dimensional Lists](23_CSVFormat2DLists.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/23_CSVFormat2DLists.ipynb)
 * [Lab: CSV Files and Text Analysis](24_Lab_CSVTextAnalysis.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/24_Lab_CSVTextAnalysis.ipynb)
 
-## Dey 10: Writing your own Custom Functions
+## Day 10: Writing your own Custom Functions
 * [Function Definitions](25_FunctionDefinitions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/25_FunctionDefinitions.ipynb)
 * [Function Arguments and Return Values](26_FunctionArgumentsReturns.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/26_FunctionArgumentsReturns.ipynb)
 * [Lab: Defining Functions](27_Lab_Functions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/27_Lab_Functions.ipynb)
+
+## Day 11: Dividing up Large Programs into Functions
+* [Documenting Functions](28_DocumentingFunctions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/28_DocumentingFunctions.ipynb)
+* [Lab: Sentiment Analysis Program](29_Lab_SentimentAnalysis.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/29_Lab_SentimentAnalysis.ipynb)
