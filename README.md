@@ -55,3 +55,8 @@
 * [Scope](30_Scope.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/30_Scope.ipynb)
 * [Working with Lists in Functions](31_ListsInFunctions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/31_ListsInFunctions.ipynb)
 * [Lab: Improving the Sentiment Analysis Program](32_Lab_ImprovingSentimentAnalysis.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/32_Lab_ImprovingSentimentAnalysis.ipynb)
+
+## Day 13: Processing Text Data
+* [More on Strings and Lists, Slicing, Mutability](33_StringsListsSlicingMutability.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/33_StringsListsSlicingMutability.ipynb)
+* [String Processing and Formatting](34_StringProcessingFormatting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/34_StringProcessingFormatting.ipynb)
+* [Lab: Ciphers](35_Lab_Ciphers.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/35_Lab_Ciphers.ipynb)
