@@ -60,3 +60,8 @@
 * [More on Strings and Lists, Slicing, Mutability](33_StringsListsSlicingMutability.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/33_StringsListsSlicingMutability.ipynb)
 * [String Processing and Formatting](34_StringProcessingFormatting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/34_StringProcessingFormatting.ipynb)
 * [Lab: Ciphers](35_Lab_Ciphers.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/35_Lab_Ciphers.ipynb)
+
+## Day 14: For Loops and Ranges
+* [For Loops](36_ForLoops.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/36_ForLoops.ipynb)
+* [Ranges](37_Ranges.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/37_Ranges.ipynb)
+* [Lab: For Loops](38_Lab_ForLoops.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/38_Lab_ForLoops.ipynb)
