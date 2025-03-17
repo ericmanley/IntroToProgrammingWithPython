@@ -65,3 +65,8 @@
 * [For Loops](36_ForLoops.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/36_ForLoops.ipynb)
 * [Ranges](37_Ranges.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/37_Ranges.ipynb)
 * [Lab: For Loops](38_Lab_ForLoops.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/38_Lab_ForLoops.ipynb)
+
+## Day 15: Image Processing
+*[Tuples](39_Tuples.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/39_Tuples.ipynb)
+*[Image Processing and Nested For Loops](40_ImageProcessingNestedForLoops.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/40_ImageProcessingNestedForLoops.ipynb)
+*[Image Processing Lab](41_Lab_ImageProcessing.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/41_Lab_ImageProcessing.ipynb)
