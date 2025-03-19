@@ -69,4 +69,9 @@
 ## Day 15: Image Processing
 * [Tuples](39_Tuples.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/39_Tuples.ipynb)
 * [Image Processing and Nested For Loops](40_ImageProcessingNestedForLoops.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/40_ImageProcessingNestedForLoops.ipynb)
-* [Image Processing Lab](41_Lab_ImageProcessing.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/41_Lab_ImageProcessing.ipynb)
+* [Lab: Image Processing](41_Lab_ImageProcessing.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/41_Lab_ImageProcessing.ipynb)
+
+## Day 16: Dictionaries and JSON Files
+* [Dictionaries](42_Dictionaries.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/42_Dictionaries.ipynb)
+* [JSON Files](43_JSONFiles.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/43_JSONFiles.ipynb)
+* [Lab: Dictionaries and JSON Files](44_Lab_DictionariesJSON.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/44_Lab_DictionariesJSON.ipynb)
