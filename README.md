@@ -75,3 +75,9 @@
 * [Dictionaries](42_Dictionaries.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/42_Dictionaries.ipynb)
 * [JSON Files](43_JSONFiles.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/43_JSONFiles.ipynb)
 * [Lab: Dictionaries and JSON Files](44_Lab_DictionariesJSON.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/44_Lab_DictionariesJSON.ipynb)
+
+
+## Day 17: Searching and Sorting
+* [Searching and The Find Max/Min Algorithm](45_FindMaxMinAlgorithm.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/45_FindMaxMinAlgorithm.ipynb)
+* [Insertion Sorting Algorithm](46_InsertionSortAlgorithm.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/46_InsertionSortAlgorithm.ipynb)
+* [Lab: Find Max/Min and Sorting](47_Lab_MaxMinSort.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/47_Lab_MaxMinSort.ipynb)
