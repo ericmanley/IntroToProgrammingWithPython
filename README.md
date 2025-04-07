@@ -81,3 +81,6 @@
 * [Searching and The Find Max/Min Algorithm](45_FindMaxMinAlgorithm.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/45_FindMaxMinAlgorithm.ipynb)
 * [Insertion Sorting Algorithm](46_InsertionSortAlgorithm.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/46_InsertionSortAlgorithm.ipynb)
 * [Lab: Find Max/Min and Sorting](47_Lab_MaxMinSort.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/47_Lab_MaxMinSort.ipynb)
+
+## Day 18: Practice with Common Data Structures
+* [Sets, Records, and Maps](48_SetsRecordsMaps.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/48_SetsRecordsMaps.ipynb)
