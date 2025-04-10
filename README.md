@@ -87,3 +87,8 @@
 
 ## Day 19: Dash Web Applications and Dashboards
 * [Lab: Introduction to Dash](49_Lab_Dash.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/49_Lab_Dash.ipynb)
+
+## Day 20: A Taste of Object-Oriented Programming
+* [Objects and Classes](50_ObjectsAndClasses.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/50_ObjectsAndClasses.ipynb)
+* [Class Design, Hiding Attributes](51_ClassDesign.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/51_ClassDesign.ipynb)
+* [Lab: Classes](52_Lab_Classes.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/52_Lab_Classes.ipynb)
