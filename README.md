@@ -85,5 +85,5 @@
 ## Day 18: Practice with Common Data Structures
 * [Sets, Records, and Maps](48_SetsRecordsMaps.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/48_SetsRecordsMaps.ipynb)
 
-## Day 19: Dash web applications and dashboards
+## Day 19: Dash Web Applications and Dashboards
 * [Lab: Introduction to Dash](49_Lab_Dash.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericmanley/IntroToProgrammingWithPython/blob/main/49_Lab_Dash.ipynb)
